@@ -1,0 +1,303 @@
+<?xml version="1.0"?>
+<ArrayOfDivision xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Division>
+    <Data>M395,40 l10,0 l0,20 l-10,0 Z</Data>
+    <RotationAngle>0</RotationAngle>
+    <Color>DarkRed</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>6</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>12</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>18</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>24</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,20 l-10,0 Z</Data>
+    <RotationAngle>30</RotationAngle>
+    <Color>DarkRed</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>36</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>42</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>48</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>54</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,20 l-10,0 Z</Data>
+    <RotationAngle>60</RotationAngle>
+    <Color>DarkRed</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>66</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>72</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>78</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>84</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,20 l-10,0 Z</Data>
+    <RotationAngle>90</RotationAngle>
+    <Color>DarkRed</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>96</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>102</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>108</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>114</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,20 l-10,0 Z</Data>
+    <RotationAngle>120</RotationAngle>
+    <Color>DarkRed</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>126</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>132</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>138</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>144</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,20 l-10,0 Z</Data>
+    <RotationAngle>150</RotationAngle>
+    <Color>DarkRed</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>156</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>162</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>168</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>174</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,20 l-10,0 Z</Data>
+    <RotationAngle>180</RotationAngle>
+    <Color>DarkRed</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>186</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>192</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>198</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>204</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,20 l-10,0 Z</Data>
+    <RotationAngle>210</RotationAngle>
+    <Color>DarkRed</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>216</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>222</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>228</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>234</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,20 l-10,0 Z</Data>
+    <RotationAngle>240</RotationAngle>
+    <Color>DarkRed</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>246</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>252</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>258</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>264</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,20 l-10,0 Z</Data>
+    <RotationAngle>270</RotationAngle>
+    <Color>DarkRed</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>276</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>282</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>288</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>294</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,20 l-10,0 Z</Data>
+    <RotationAngle>300</RotationAngle>
+    <Color>DarkRed</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>306</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>312</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>318</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>324</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,20 l-10,0 Z</Data>
+    <RotationAngle>330</RotationAngle>
+    <Color>DarkRed</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>336</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>342</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>348</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+  <Division>
+    <Data>M395,40 l10,0 l0,10 l-10,0 Z</Data>
+    <RotationAngle>354</RotationAngle>
+    <Color>Black</Color>
+  </Division>
+</ArrayOfDivision>
